@@ -1,0 +1,5 @@
+com/myshop/inventory/service/InventoryService.class
+com/myshop/inventory/model/Inventory.class
+com/myshop/inventory/InventoryApplication.class
+com/myshop/inventory/controller/InventoryController.class
+com/myshop/inventory/repository/InventoryRepository.class

@@ -1,0 +1,7 @@
+/home/hoang/Public/PC-HOANG/BACK_END/JAVA/Springboot/java-microservice/my-shop/product/src/main/java/com/myshop/product/ProductApplication.java
+/home/hoang/Public/PC-HOANG/BACK_END/JAVA/Springboot/java-microservice/my-shop/product/src/main/java/com/myshop/product/repository/ProductRepository.java
+/home/hoang/Public/PC-HOANG/BACK_END/JAVA/Springboot/java-microservice/my-shop/product/src/main/java/com/myshop/product/model/Product.java
+/home/hoang/Public/PC-HOANG/BACK_END/JAVA/Springboot/java-microservice/my-shop/product/src/main/java/com/myshop/product/controller/ProductController.java
+/home/hoang/Public/PC-HOANG/BACK_END/JAVA/Springboot/java-microservice/my-shop/product/src/main/java/com/myshop/product/payload/ProductRequest.java
+/home/hoang/Public/PC-HOANG/BACK_END/JAVA/Springboot/java-microservice/my-shop/product/src/main/java/com/myshop/product/payload/ProductResponse.java
+/home/hoang/Public/PC-HOANG/BACK_END/JAVA/Springboot/java-microservice/my-shop/product/src/main/java/com/myshop/product/service/ProductService.java

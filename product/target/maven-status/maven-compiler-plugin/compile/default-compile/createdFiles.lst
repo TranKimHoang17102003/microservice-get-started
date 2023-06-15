@@ -1,0 +1,10 @@
+com/myshop/product/repository/ProductRepository.class
+com/myshop/product/model/Product.class
+com/myshop/product/payload/ProductResponse.class
+com/myshop/product/payload/ProductResponse$ProductResponseBuilder.class
+com/myshop/product/controller/ProductController.class
+com/myshop/product/service/ProductService.class
+com/myshop/product/model/Product$ProductBuilder.class
+com/myshop/product/payload/ProductRequest.class
+com/myshop/product/payload/ProductRequest$ProductRequestBuilder.class
+com/myshop/product/ProductApplication.class
