@@ -16,6 +16,11 @@ spring:
         format_sql: true
     show-sql: true
 
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+
 #  zipkin:
 #    base-url: http://localhost:9411
 #  rabbitmq:
@@ -29,3 +34,4 @@ spring:
 #    fetch-registry: true
 #    register-with-eureka: true
 #    enabled: true
+
