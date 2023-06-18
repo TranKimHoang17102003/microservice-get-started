@@ -32,6 +32,14 @@ management:
     health:
       show-details: always
 
+  #tracing
+  zipkin:
+    tracing:
+      endpoint: http://localhost:9411/api/v2/spans
+      sampling:
+        probability: 1.0
+
+
 #Resilinece4j Properties
 resilience4j:
   circuitbreaker:
